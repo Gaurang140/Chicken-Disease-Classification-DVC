@@ -125,6 +125,7 @@ celerybeat.pid
 env/
 chicken/
 newchecken/
+
 venv/
 ENV/
 env.bak/
