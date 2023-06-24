@@ -3,7 +3,7 @@ import urllib.request as request
 from zipfile import ZipFile
 import tensorflow as tf
 import time
-from diseaseClassifier.entity.config_entity import PrepareCallbacksConfig
+from diseaseClassifier.entity import PrepareCallbacksConfig
 
 
 class PrepareCallback:

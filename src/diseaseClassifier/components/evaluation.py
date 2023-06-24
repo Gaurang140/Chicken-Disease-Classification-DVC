@@ -1,6 +1,6 @@
 import tensorflow as tf
 from pathlib import Path
-from diseaseClassifier.entity.config_entity import EvaluationConfig
+from diseaseClassifier.entity import EvaluationConfig
 from diseaseClassifier.utils.common import save_json
 
 

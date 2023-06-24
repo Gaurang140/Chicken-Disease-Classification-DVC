@@ -1,4 +1,4 @@
-from diseaseClassifier.entity.config_entity import TrainingConfig
+from diseaseClassifier.entity  import TrainingConfig
 import tensorflow as tf
 from pathlib import Path
 

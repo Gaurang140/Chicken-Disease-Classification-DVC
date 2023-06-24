@@ -3,7 +3,7 @@ import urllib.request as request
 import zipfile
 from diseaseClassifier import logger
 from diseaseClassifier.utils.common import get_size
-from diseaseClassifier.entity.config_entity import DataIngestionConfig
+from diseaseClassifier.entity import DataIngestionConfig
 from pathlib import Path
 
 

@@ -1,6 +1,6 @@
 from diseaseClassifier.config.configuration import ConfigurationManager
 from diseaseClassifier.components.prepare_callbacks import PrepareCallback
-from diseaseClassifier.components.training import Training
+from diseaseClassifier.components.model_trainer import Training
 from diseaseClassifier import logger
 
 
