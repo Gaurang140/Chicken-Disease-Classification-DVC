@@ -1,6 +1,8 @@
 import numpy as np
+import tensorflow as tf
 from keras.models import load_model
-from keras.preprocessing import image
+from tensorflow.keras.preprocessing import image
+
 import os
 
 
