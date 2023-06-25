@@ -19,7 +19,7 @@
 Clone the repository
 
 ```bash
-https://github.com/Gaurang140/Chiken-Disease-Classification-DVC.git
+https://github.com/Gaurang140/Chicken-Disease-Classification-DVC.git
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
