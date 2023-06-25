@@ -1,4 +1,4 @@
-# Chiken-Disease-Classification-DVC
+# Chicken-Disease-Classification-DVC
 
 ## Workflows
 
